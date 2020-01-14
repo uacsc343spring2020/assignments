@@ -29,7 +29,8 @@ like `<center>`, `<b>`, or `<i>` to alter visual appearance. If you use a tag,
 it should be appropriate to the content described.
 
 Use the following link to create your github repository for this assignment:
-[https://classroom.github.com/a/JSD2B7Jb](https://classroom.github.com/a/JSD2B7Jb).
+TBA
+<!-- [https://classroom.github.com/a/JSD2B7Jb](https://classroom.github.com/a/JSD2B7Jb) -->.
 At the time of submissions, your git repository should contain one HTML file
 named `PM1.html` as well as a CSS file. It should also include any images or
 media needed for the report and `PM1.html`.
