@@ -37,6 +37,9 @@ media needed for the report and `PM1.html`.
 
 ## Content
 
+In the upper right, state which of the two projects you have chosen, with
+`Project: [KEY]` where `[KEY]` is `MENU` or `GAME`.
+
 ### Data Gathering 
 
 #### Interviews (18 pts)
@@ -225,7 +228,8 @@ justified. The main content should be 640 pixels wide.
 
 The links in the menu should be
 indented 10 pixels. There should be at least 15 pixels of spacing between each
-link.
+link. They should appear below the statement of which project you chose, which
+should be in `#00BBFF` bold.
 
 There should be a 30 pixel buffer between the menu and the content. There
 should be at least 35 points of space between each section of the content.
