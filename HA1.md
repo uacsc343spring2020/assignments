@@ -17,8 +17,8 @@ style information should be in the HTML tags. Do not use HTML tags like
 used as appropriately to describe the *content*.
 
 Use the following link to create your github repository for this assignment:
-TBA
-<!-- [https://classroom.github.com/a/xJxUP7vR](https://classroom.github.com/a/xJxUP7vR) -->.
+[https://classroom.github.com/a/w-VPt722](https://classroom.github.com/a/w-VPt722).
+<!-- [https://classroom.github.com/a/xJxUP7vR](https://classroom.github.com/a/xJxUP7vR). -->
 At the time of submission, your git repository should contain one HTML file
 named `HA1.html` as well as a CSS file names `HA1.css` and an image file.
 Please create these files as part of the assignment.
