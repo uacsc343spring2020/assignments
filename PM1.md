@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised 2020/1/29 - Fixed incomplete color value
 - Released 2020/1/14
 
 
@@ -216,7 +217,7 @@ All images should be displayed as figures as follows:
 - There will be a caption of the form `Fig #: Caption text`. The `Fig #:`
   portion should be bold and `#00BFFF`. The rest of the caption should match the
 rest of the content text.
-- The image and caption will be contained in a 2 pixel solid `#00BFF` border with
+- The image and caption will be contained in a 2 pixel solid `#00BFFF` border with
   15 pixels between the image/caption and the border.
 - The entire figure will be centered within the 640 pixels of content.
 - Clicking on an image should diplay the full-sized image.
