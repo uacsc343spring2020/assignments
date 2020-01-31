@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised 2020/131 - Fixed a few places it said green where it meant blue. We will take this into account during grading if it was made green.
 - Revised 2020/1/29 - Fixed incomplete color value
 - Released 2020/1/14
 
@@ -87,7 +88,7 @@ allows you to pause and replay interactions.
 Each observation report should be in a separate sub-section with the title of
 the form `Observation #? - Description`. Like the interviews, the description
 should differentiate the observations.  If the observation was done off of a
-video, a link to the video should be provided next to a bolded, green
+video, a link to the video should be provided next to a bolded, blue
 `Source:`.  
 
 All Observations content should be under the Section Header `Observation`.
@@ -125,7 +126,7 @@ project you chose:
 - GAME: Choosing an piece of armor/accessory to equip. 
 
 Describe the objects, lists, and flags in the domain of your task analysis.
-Each list should be titled in bold using the green described below.
+Each list should be titled in bold using the blue described below.
 
 Write all of the tasks and subtasks as a list. In the sample, the task numbers
 are specified by hand, not with the `ol` functionality. No bullets should be
@@ -157,7 +158,7 @@ explain the rationale for your ordering.
 
 Both requirements lists should be numbered, with the type of the requirement
 bolded at the top. The rationale should be listed below with the word
-"Rationale" bolded and in green. The rationale should cover all the
+"Rationale" bolded and in blue. The rationale should cover all the
 requirements in the list. Use a sub-section header for both `Functional
 Requirements` and `Non-Functional Requirements.` 
 
