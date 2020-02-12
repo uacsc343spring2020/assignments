@@ -1,10 +1,5 @@
 ## Homework Assignment 3
 
-Items can be removed by clicking on their row directly. The entire TODO list
-can be cleared by clicking the Clear All Entries button. This will also clear
-the text input if there is text there.
-The webpage should consist of a set of controls and a grid drawing area. 
-
 Version History: 
 
 - 2019/02/11: Released
