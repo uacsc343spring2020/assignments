@@ -235,8 +235,8 @@ GivenName's contributions were...
 
 4. Cooperative and Supportive Attitude: Good
 
-GivenName did a great job on the paper prototype but was two days later than we
-planned so we had to scramble to make the movie.
+GivenName did a great job on the paper prototype but was two days later than
+we planned so we had to scramble to make the movie.
 ```
 
 Example 2:
@@ -256,8 +256,8 @@ OtherName's contributions were...
 OtherName did not respond to our attempts to contact them until two days
 before the deadline. They helped with the final edits but the rest of the work
 had mostly be discussed and apportioned by that time and we did not want to
-de-rail the project by changing things at the last minute. They were apologetic and 
-plan to contribute earlier next milestone.
+de-rail the project by changing things at the last minute. They were
+apologetic and plan to contribute earlier next milestone.
 ```
 
 ### Distribution
