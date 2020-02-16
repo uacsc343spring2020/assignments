@@ -5,3 +5,4 @@
 - [Homework Assignment 2](HA2.md)
 - [Project Milestone 2](PM2.md)
 - [Homework Assignment 3](HA3.md)
+- [Project Milestone 3](PM3.md)
