@@ -1,5 +1,4 @@
 ## Project Milestone 3
-- Added Team Repository Link 2019/3/11
 
 Version History: 
 
