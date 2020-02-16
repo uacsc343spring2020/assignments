@@ -1,13 +1,9 @@
 ## Homework Assignment 3
 
-Items can be removed by clicking on their row directly. The entire TODO list
-can be cleared by clicking the Clear All Entries button. This will also clear
-the text input if there is text there.
-The webpage should consist of a set of controls and a grid drawing area. 
-
 Version History: 
 
-- 2019/02/11: Released
+- 2020/02/13: Fixed release year from 2019 to 2020, made note about `position: fixed;`
+- 2020/02/11: Released
 
 In this assignment, we are exercising:
 
@@ -21,10 +17,7 @@ class in accordance with design principles. You may start from your HA2
 submission or you may start from a sample solution available under the
 resources tab of Piazza.
 
-The HTML, Javascript, and CSS should be in separate files. No style
-information should be in the HTML tags. Do not use HTML tags like `<center>`,
-`<b>`, or `<i>` to alter visual appearance.  Programmatically added SVG
-elements may have style attributes.
+The HTML, Javascript, and CSS should be in separate files. No style information should be in the HTML tags outside of a `style` attribute. Do not use HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.  Avoid the use of CSS `position: fixed;` because it may cause elements to overlap and be unreadable on the grader's setup.
 
 This assignment is not meant to require external Javascript libraries.
 However, if you use external Javascript libraries, it should be included in
