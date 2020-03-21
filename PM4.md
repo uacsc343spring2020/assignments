@@ -2,9 +2,11 @@
 
 Version History: 
 
+- Revised 2020/3/11 - Extend Deadline to March 22
+- Revised 2020/2/25 - Fix typo
 - Released 2020/2/23
 
-The team portion of this milestone is due Friday March 20, 11:59 PM (group)
+The team portion of this milestone is due Sunday March 22, 11:59 PM (group)
 and thirty minutes later for the indvidual portion.
 
 In this milestone we are:
@@ -158,7 +160,7 @@ Clyde: 20
 ```
 
 **If the distribution is largely uneven, please make a note as to why it
-was not evenly apportioned and what was done to try to divide it evently.**
+was not evenly apportioned and what was done to try to divide it evenly.**
 
 The second paragraph should describe what your contributions to the project
 milestone were:
