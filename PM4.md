@@ -1,7 +1,10 @@
 ## Project Milestone 4
 
+**Note, it may be that some team members are unable to participate due to COVID-19 related changes (e.g., Internet access, illnness, need to care for family). It may be that you do not complete as much of this milestone as you wanted due to COVID-19 related changes to your obligations. We are aware of this. It will not be counted against any team. Please prioritize health and family.**
+
 Version History: 
 
+- Revised 2020/3/20 - Some added notes
 - Revised 2020/3/11 - Extend Deadline to March 22
 - Revised 2020/2/25 - Fix typo
 - Released 2020/2/23
@@ -161,6 +164,8 @@ Clyde: 20
 
 **If the distribution is largely uneven, please make a note as to why it
 was not evenly apportioned and what was done to try to divide it evenly.**
+
+**Note, it may be that some team members are unable to participate due to COVID-19 related changes (e.g., Internet access, illnness, need to care for family). This will not be counted against any team. Please prioritize health and family.**
 
 The second paragraph should describe what your contributions to the project
 milestone were:
