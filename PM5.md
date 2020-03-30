@@ -2,11 +2,12 @@
 
 Version History: 
 
-- Released 2019/3/20
+- Deadline Revised to 2020/4/6
+- Released 2020/3/20
 
-The team portion of this milestone is due Friday April 3, 11:59 PM.
+The team portion of this milestone is due Monday April 6, 11:59 PM.
 
-The peer evaluations for this milestone are due Saturday April 4, 0:29 AM.
+The peer evaluations for this milestone are due Tuesday April 7, 0:29 AM.
 
 In this milestone we are:
 
