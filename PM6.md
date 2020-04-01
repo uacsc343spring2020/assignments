@@ -68,7 +68,7 @@ Next make this available publicly, following these steps:
 2. Scroll down to Github Pages. Change the dropdown from `None` to `master
    branch /docs foldder`
 
-![](images/GithubPaegs.png)
+![](images/GithubPages.png)
 
 3. The interface will change to `Your site is ready to be published at
    https://uacsc343spring2020.github.io/[demo-teamname]/.` In a few minutes,
