@@ -100,7 +100,8 @@ group has 4 people, you will conduct 4 evaluations. Not every team member must
 be present at every evaluation but I expect each team member will participate
 in some form in at least one evaluation.
 
-Do not evaluate using other members of the class.
+Do not evaluate using other members of the class. It is better to get new
+participants rather than to use the ones in PM4.
 
 One way to do the evaluation is through Zoom or other (free to you)
 teleconferencing software. Have the participant go to the DEMO site and share
