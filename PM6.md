@@ -60,6 +60,9 @@ The `index.html` should be under a directory called `docs`.
 
 Next make this available publicly, following these steps:
 
+**NOTE: I created this demo out of an individual classroom account, but you
+should do it out of your team's DEMO repository.**
+
 1. In your teams DEMO repository, go to `Settings`. This will automatically put
    your in the `Options` menu.
 
