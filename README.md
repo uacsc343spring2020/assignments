@@ -10,3 +10,4 @@
 - [Project Milestone 5](PM5.md)
 - [Project Milestone 6](PM6.md)
 - [Project Presentation](PP.md)
+- [Homework Assignment 4](HA4.md)
