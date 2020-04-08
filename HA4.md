@@ -183,10 +183,10 @@ Fly Out: [10.0, 8.7, 8.3, 9.9, 10.0, 8.9, 7.7, 6.8, 8.6, 9.9, 8.7, 10.0, 10.0, 6
 Trail: [7.6, 10.0, 7.8, 5.0, 6.3, 8.3, 10.0, 7.7, 7.9, 10.0, 10.0, 7.7, 8.2, 8.5, 6.2, 8.8, 9.7, 2.5, 7.7, 9.5, 9.1, 8.3] 
 
 
-a) Calculate 95% bootstrap confidence intervals as described in class. You may
-use Javascript or Python, but you may not use a library that calculates them
-for you. Include your code in a separate file. This code does not have to
-follow any specific architecture like MVC. (9 pts)
+a) Calculate 95% bootstrap confidence intervals as described in class. Use
+1,000 resamples. You may use Javascript or Python, but you may not use a
+library that calculates them for you. Include your code in a separate file.
+This code does not have to follow any specific architecture like MVC. (9 pts)
 
 **Tip:** If you use Python, use a `seed` function (e.g., `numpy.random.seed`)
 to set a seed value for the random number generator. This allows you to get
