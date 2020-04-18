@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Clarification 2020/4/18 - Video hosting
 - Released 2020/3/30
 
 Team presentation videos should be linked in a Piazza thread by 9:30 AM on
@@ -39,7 +40,10 @@ Form: [https://forms.gle/twHfAeizFU3Xj3zD6](https://forms.gle/twHfAeizFU3Xj3zD6)
 Create a thread on Piazza titled: `[Group Name] Presentation and Demo`.
 
 In that thread, include a link to a presentation video (content described
-below) and a link to your github demo site. 
+below) and a link to your github demo site. **You can host the video where you
+choose (e.g., Google Drive, YouTube, DropBox). If you host it with
+restrictions, please set to accept email.arizona.edu and cs.arizona.edu
+accoutns.**
 
 The presentation should cover:
 

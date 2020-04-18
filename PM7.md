@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Clarification 2020/4/18 - Video hosting
 - Released 2020/4/16
 
 The team portion of this milestone is due Friday May 1, 11:59 PM.
@@ -118,6 +119,11 @@ presentations a few days before the deadline. You will not be expected to
 implement this change, but acknowledge its priority for the next cycle. 
 
 #### Prototype Demonstration (10 pts)
+
+**We may run out of large file space on Github. In that case, it's okay to
+host the video on YouTube or link it to Google Drive or elsewhere. Just be
+sure the video is accessible from email.arizona.edu and cs.arizona.edu
+accounts.**
 
 Under the header "Prototype Demonstration", embed a movie showing the
 prototype through three different scenarios. For example, one can show the
