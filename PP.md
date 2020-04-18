@@ -2,7 +2,7 @@
 
 Version History: 
 
-- Clarification 2020/4/18 - Video hosting
+- Clarification 2020/4/18 - Video hosting & Content
 - Released 2020/3/30
 
 Team presentation videos should be linked in a Piazza thread by 9:30 AM on
@@ -57,6 +57,8 @@ conducting further evaluations.
 - Similarly, some discussion of the architecture of the prototype and what you
   learned from implementing it.
 - (Optional) Other issues you wish you knew when you started
+- **(Optional/Recommended) Insight on how/why you chose the theme of your
+  restaurant or game.**
 
 The goals of the presentation are:
 
